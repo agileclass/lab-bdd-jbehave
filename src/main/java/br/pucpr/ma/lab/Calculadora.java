@@ -50,5 +50,4 @@ public class Calculadora {
 	public void divisao(double valor){
 		memoria /= valor;
 	}
-	
 }
