@@ -1,4 +1,4 @@
-package br.pucpr.ma.lab;
+﻿package br.pucpr.ma.lab;
 
 public class Calculadora {
 	
